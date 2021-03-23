@@ -4,6 +4,3 @@
 
 <h5 align="center">☆ A believing heart is your magic ☆</h5>
 
-<p align="center" style="max-width: 450px; margin: auto"> 
-	I never thought learning could be so fun and fulfilling, my current goal is to get a job in web development, but even if that takes another year or two,  I'd be making websites as a hobby anyway.
-</p>
